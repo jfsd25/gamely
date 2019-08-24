@@ -6,7 +6,7 @@
     "minecraft"
   ],
   "logo": "https://raw.githubusercontent.com/GGJohny/heroku-buildpack-mcgg/master/logo.jpg",
-  "repository": "https://github.com/jfsd25/test",
+  "repository": "https://github.com/jfsd25/gamely",
   "env": {
     "MINECRAFT_EULA": {
       "description": "Do you accept the Minecraft EULA?",
@@ -35,7 +35,7 @@
       "url": "heroku/jvm"
     },
     {
-      "url": "https://github.com/jfsd25/test"
+      "url": "https://github.com/jfsd25/gamely"
     },
     {
       "url": "https://github.com/heroku/heroku-buildpack-php"
