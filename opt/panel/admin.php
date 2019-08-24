@@ -279,7 +279,7 @@ if(isset($_POST['action'])) {
 							<option value="1.8.8">Spigot 1.8.8</option>
 							<option value="1.7.10">Spigot 1.7.10</option>
 							<option value="BC">Bungeecord</option>
-							<option value="NONE">None</option>
+							<option value="1.14.4">Spigot 1.14.4</option>
 						</select>
 					</div>
 				</div>
